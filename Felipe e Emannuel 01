@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+        <meta charset="UTF-8">
+        <title title="História das Linguagem">
+        </title>
+</head>
+    <body bgcolor="black" text="white">
+            <h1 align="center"><i>
+                História das linguagens de programação
+            </h1></i><hr>
+            <div >
+                <h2 align="center">
+                    SQL - Donald D. Chamberlin Raymond F. Boyce
+                </h2>
+                <img src="sql.jpg">
+                <img src="sql2.jpg" width="700">
+                <img src="criado.jpg" width="250" align="right">
+                <ul><li>
+                    A linguagem SQL surgiu em meados da década de 70, sendo resultado de um estudo de E. F. <br>Codd, membro do laboratório de pesquisa da IBM em San Jose, Califórnia. Este estudo tinha <br>foco em desenvolver uma linguagem que adapta-se ao modelo relacional.
+                </ul></li>
+                <p align="right">
+                    Raymond F. Boyce (1946–1974) foi um<br>
+                    cientista da computação americano<br>
+                    conhecido por sua pesquisa em<br>
+                    bancos de dados relacionais.<br>
+                    Ele é mais conhecido por seu<br>
+                    trabalho de co-desenvolvimento<br>
+                    da linguagem de banco de dados<br>
+                    SQL e da Boyce–Codd normal form.
+                </p>
+            </div>
+            <div><hr>
+                <h2 align="center">
+                    C++ - Bjarne Stroustrup
+                </h2>
+                <img src="c.jpg" width="200">
+                <img src="c1.jpg" width="300">
+                <img src="c2.jpg" width="300">
+                <img src="criado2.jpg" width="200" align="right">
+                <ul>
+                    <li>
+                        C ++ é uma extensão da linguagem de programação C. As extensões de C ++ sobre C foram primeiramente introduzidas<br>
+                    por Bjarne Stroustrup em 1980 nos Laboratórios Bell de New Jersey. Inicialmente, a linguagem era chamada    
+                    <br>``C com classes'', mas o nome foi alterado para C ++ em 1983.
+                        
+                    </li>
+                </ul>
+                    <p align="right">
+                        Bjarne Stroustrup (Århus, 30 de dezembro de 1950)<br>
+                        é um cientista da computação dinamarquês e<br>
+                        professor catedrático da Universidade do<br>
+                        Texas A&M. É conhecido como o pai da<br>
+                        linguagem de programação C++.<br>
+                    </p>
+                </p>
+
+
+            </div><hr>
+
+            <div>
+                <h2 align="center">
+                    Python - Guido van Rossum
+
+                </h2>  
+                <img src="py.jpg" width="200">
+                <img src="py2.jpg" width="500">
+                <img src="py3.jpg" width="190" align="right">
+
+                <ul>
+                    <li>
+                        O Python foi concebido no final de 1989 por Guido van Rossum no Instituto de Pesquisa Nacional para<br>
+                        Matemática e Ciência da Computação (CWI), nos Países Baixos, como um sucessor da ABC capaz de<br>
+                        tratar exceções e prover interface com o sistema operacional Amoeba através de scripts.
+
+                    </li>
+
+
+                </ul>
+
+                <p align="right">
+                Em janeiro de 2013, começou a trabalhar<br>
+                para Dropbox. Em 2020, Rossum junta-se<br>
+                à Microsoft onde passa a atuar com<br>
+                Distinguished Engineer, com<br>
+                liberdade para continuar a desenvolve<br>
+                a linguagem Python, em sintonia com<br>
+                as políticas da Microsoft de se <br>
+                aproximar mais da comunidade Open Source.<br>
+                </p>  
+
+
+            </div><br>
+
+            <div>
+                <br>
+                <h2 align="center">
+                    Javascript - Brendan Eich
+                </h2>
+                <img src="js.jpg" width="200">
+                <img src="js3.jpg" width="300">
+                <img src="js2.jpg" width="220" align="right">
+                <ul>
+
+                <li>
+                    JavaScript é uma Linguagem de Programação, criada por Brendan Eich, a pedido da empresa<br> Netscape, em meados de 1995. No início, o JavaScript foi batizado com outro nome:<br> LiveScript. No entanto, a Netscape não ficou sozinha com o desenvolvimento do JavaScript.
+                </li></ul>
+
+                <p align="right">
+                    Eich iniciou sua carreira na Silicon<br>
+                    Graphics, trabalhando por sete anos<br>
+                    em sistemas operacionais e sistemas<br>
+                    de rede. Depois trabalhou por três<br>
+                    anos na MicroUnity Systems<br>
+                    Engineering escrevendo microkernels<br>
+                    e código para DSPs, bolando a<br>
+                    primeira portagem do compilador<br>
+                    GCC para MIPS R4000.<br>
+                </p>
+
+            </div>   
+
+
+
+    </body>
+
+
+</html>
