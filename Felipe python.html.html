@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Python</title>
+	<style>
+		hr {
+			height: 5px;
+			background-color: green;
+			border: none;
+    	}
+    	 *{
+   }
+ 		ul{
+    	position: relative;
+    	display: flex;
+    	flex-direction: column;
+    	gap: 30px;
+  	}
+  	ul li a{
+   	 	position: relative;
+    	list-style: none;
+  	}
+  	ul li a{
+    	position: relative;
+    	font-size: 4em;
+    	text-decoration: none;
+    	line-height: 1em;
+    	letter-spacing: 2px;
+    	text-transform: uppercase;
+    	color: transparent;
+    	-webkit-text-stroke: 1px rgba(255,255,255,0.5);
+  	}
+  	ul li a::before{
+    	content: attr(data-text);
+    	position: absolute;
+    	color: var(--clr);
+    	width: 0;
+    	overflow: hidden;
+    	transition: 1s;
+    	border-right: 8px solid  var(--clr);
+    	-webkit-text-stroke: 1px  var(--clr);
+  	}
+  	ul li a:hover::before{
+    	width: 100%;
+    	filter: drop-shadow(0 0 25px var(--clr));
+  	}
+	</style>
+</head>
+
+<body bgcolor="black" text="white">
+	
+	<div>
+
+		<div align="center"> <!-- título e frase -->
+			<ul style="color: black;">
+				<li style="--clr:#00ff19">
+				<a data-text="&nbsp;Python">&nbsp;Python&nbsp;</a>
+      			</li>
+      		</ul>
+      		<h2> Um resumo sobre a linguagem de programação python </h2>
+		</div>
+		<div align="center"> <!-- img e parágrafo -->
+			<img src="py.jpg" width="420">
+			<figcaption>Linguagem Python</figcaption>
+			<hr>
+
+              
+              <h2 style="color: green;"> O que é python?</h2>
+			<p>	Python é uma linguagem de propósito geral, ou seja, pode ser utilizada para as mais diversas aplicações. É gratuita Open Source e foi projetada tendo como um dos principais objetivos ser de fácil leitura e utilização.
+             Definindo com termos mais técnicos, Python é interpretada, orientada a objetos, funcional, tipada, imperativa e de script. Vamos entender um pouco melhor alguns princípios da linguagem e onde ela pode ser utilizada. 
+				
+			</p>
+			<hr>
+
+
+        </div>
+
+        <div>
+
+        	<h2 style="color: green;">A linguagem de programação Python foi desenvolvida sob princípios, são eles:</h2>
+
+        	<ol>
+        		<li>Bonito é melhor do que feio.</li>
+        		<li>Explícito é melhor do que implícito.</li>
+				<li>Simples é melhor do que complexo.</li>
+				<li>Complexo é melhor do que complicado.</li>
+				<li>Horizontal é melhor do que aninhado.</li>
+        	</ol>
+        </div>
+        <div>
+        	<li>Referencias
+        		<a href="https://didatica.tech/a-linguagem-python/#:~:text=O%20que%20%C3%A9%20Python%3F,de%20f%C3%A1cil%20leitura%20e%20utiliza%C3%A7%C3%A3o." target="blank">Python</a>
+        	</li>
+
+        	<li> Python online
+        		<a href="https://www.online-python.com/" target="blank">IDE</a>
+        	</li>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+</body>
+</html>
